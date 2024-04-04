@@ -1,0 +1,12 @@
+
+.article_title h2{
+    font-size: 48px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 60px;
+    padding-bottom: 30px;
+    width: 710px;
+}
+.img img{
+    width: 100%;
+}
